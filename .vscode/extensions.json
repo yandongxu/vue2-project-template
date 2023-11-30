@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "streetsidesoftware.code-spell-checker",
+    "yandongxu.vue-jsx-snippets",
+    "ms-playwright.playwright",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "stylelint.vscode-stylelint",
+    "zixuanchen.vitest-explorer",
+    "dbaeumer.vscode-eslint"
+  ]
+}
